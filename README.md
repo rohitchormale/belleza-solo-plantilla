@@ -1,7 +1,7 @@
 #Belleza-Solo-Plantilla
 ***A fully responsive HTML one page template using Twitter's Bootstrap***
 
-<a href="http://www.google.com" class="button pill" target="_blank">Live Demo </a>
+<a href="http://rohitchormale.me" class="button pill" target="_blank">Live Demo </a>
 
 ##Features
 - Built on Bootstrap 3
